@@ -1,0 +1,125 @@
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe.config
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.pdb
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Menu.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Properties.Resources.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.pdb
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.DanhSachXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ThemXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ChonXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.SuaThongTinXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.TraXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ThongKe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Login.Login.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.DoanhThu.ChiTiet.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.DoanhThu.DoanhThu.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.KhachHang.DanhSachKH.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.KhachHang.SuaThongTinKH.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterUsers.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterWorkers.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.MenuUsers.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.ThanhToan.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.ThongTinKH.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.DichVu.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.AddHopDong.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.EditHopDong.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.SelectXe.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Managers.MenuManagers.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.ThongTinNV.ThongTinNV.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterManagers.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Managers.XoaNV.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.TKB.TKB.resources
+C:\Users\ADMIN\Máy tính\Winforms\Project\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe.config
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.pdb
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Login.Login.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Managers.MenuManagers.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Managers.XoaNV.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterManagers.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterUsers.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Registers.RegisterWorkers.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.AddHopDong.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.DichVu.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.EditHopDong.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.MenuUsers.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.SelectXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.ThanhToan.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Users.ThongTinKH.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.DoanhThu.ChiTiet.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.DoanhThu.DoanhThu.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.KhachHang.DanhSachKH.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.KhachHang.SuaThongTinKH.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Menu.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.ThongTinNV.ThongTinNV.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.TKB.TKB.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ChonXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.DanhSachXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.SuaThongTinXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ThemXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.ThongKe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Workers.Xe.TraXe.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Downloads\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.pdb
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.ResolveComReference.cache
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Login.frmLogin.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Properties.Resources.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.GenerateResource.cache
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CoreCompileInputs.cache
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.exe
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.pdb
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe.config
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.pdb
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\Guna.UI.dll
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CopyComplete
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.mainFormStaff.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.changePasswordUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.editProfileUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.receiveCarUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.checkInOutCarUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.showListCarInPackUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csprojAssemblyReference.cache
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.calendarUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.shiftInformationUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.mainFormManager.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.showInfoStaffUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.showCalenderStaff.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.statisticUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.chiaCaUC.resources
+C:\1D\HocTap\DBMS\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.registerUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe.config
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\bin\Debug\BaiGiuXeVer2.pdb
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Login.frmLogin.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.mainFormManager.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.chiaCaUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.registerUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.showInfoStaffUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.ManagerUC.statisticUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Manager.showCalenderStaff.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.mainFormStaff.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.calendarUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.changePasswordUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.checkInOutCarUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.editProfileUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.receiveCarUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.shiftInformationUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Forms.Staff.StaffUC.showListCarInPackUC.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.Properties.Resources.resources
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csproj.CopyComplete
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.exe
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.pdb
+C:\Users\ADMIN\Máy tính\DBMS\Project\Project_Final\Do_An_DBMS\BaiGiuXeVer2\BaiGiuXeVer2\obj\Debug\BaiGiuXeVer2.csprojAssemblyReference.cache
